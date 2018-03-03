@@ -68,8 +68,8 @@ func (r *Repository) PopulateTable(tableName, filePath string) error {
 	return err
 }
 
-func (r *Repository) runQuery(tx *sql.Tx, queryName goyesql.Tag, args ...interface{}) error {
-	_, err := tx.Exec(queries[queryName], args...)
+func (r *Repository) runQuery(tx *sql.Tx, query string, args ...interface{}) error {
+	_, err := tx.Exec(query, args...)
 	return err
 }
 
@@ -107,11 +107,11 @@ func (r *Repository) runCopyIn(tx *sql.Tx, tableName string, header []string, ro
 }
 
 func (r *Repository) createTable(tx *sql.Tx, tableName string) error {
-	return r.runQuery(tx, goyesql.Tag(fmt.Sprintf("create-%s-table", tableName)))
+	return r.runQuery(tx, queries[goyesql.Tag(fmt.Sprintf("create-%s-table", tableName))])
 }
 
 func (r *Repository) dropTable(tx *sql.Tx, tableName string) error {
-	return r.runQuery(tx, goyesql.Tag(fmt.Sprintf("drop-%s-table", tableName)))
+	return r.runQuery(tx, fmt.Sprintf(queries["drop-table"], tableName))
 }
 
 func (r *Repository) loadTable(tx *sql.Tx, tableName string, rows [][]string) error {

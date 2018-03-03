@@ -46,4 +46,9 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+
+	err = repo.PopulateTable("stop_times", fmt.Sprintf("%s/gtfs_bhtransit/stop_times.txt", dir))
+	if err != nil {
+		panic(err)
+	}
 }
