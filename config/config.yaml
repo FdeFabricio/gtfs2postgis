@@ -1,0 +1,7 @@
+database:
+  dbname: "database"
+  driver: "postgres"
+  host: "127.0.0.1"
+  password: ""
+  port: 5432
+  user: "admin"

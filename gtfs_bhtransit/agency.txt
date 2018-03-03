@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+BHTRANS,Empresa de Transportes e Transito de Belo Horizonte S/A ,http://www.bhtrans.pbh.gov.br?version=17.02.01,America/Sao_Paulo,pt

@@ -1,0 +1,631 @@
+﻿route_id,route_short_name,route_long_name,route_type
+101   01,101,Aglomerado Santa Lucia (Principal),3
+102   01,102,Nossa Senhora De Fatima/Hospital Evangelico (Principal),3
+102   02,102,Nossa Senhora De Fatima/Hospital Evangelico (Via Av. Cardoso),3
+103   01,103,Vila Cafezal/Rua Pouso Alto (Principal),3
+1030  05,1030,Avenida (Direta),3
+104   01,104,Estacao Lagoinha / Avenida (Principal),3
+105   01,105,Estacao Central / Lourdes (Principal),3
+107   01,107,Vila Marcola / Rua Do Ouro (Principal),3
+1145  01,1145,Bairro Das Industrias (Principal),3
+1170  01,1170,Santa Lucia/Mangabeiras (Principal),3
+1404A 03,1404A,Palmeiras / Alipio De Melo (Noturno),3
+1404A 05,1404A,Palmeiras / Alipio De Melo (Principal),3
+1404B 01,1404B,Estrela Do Oriente / Jardim Inconfidencia (Principal),3
+1404C 01,1404C,Palmeiras / Sao Salvador (Principal),3
+1502  01,1502,Vista Alegre / Guarani (Principal),3
+1505  01,1505,Alto Dos Pinheiros/Tupi (Principal),3
+1505  02,1505,Alto Dos Pinheiros/Tupi (Via Conjunto Felicidade),3
+1505  03,1505,Alto Dos Pinheiros/Tupi (Noturno),3
+1505R 01,1505R,Conjunto Felicidade / Centro (Principal),3
+1509  07,1509,California/Tupi (Principal),3
+1510  01,1510,Madre Gertrudes/Providencia (Principal),3
+201   01,201,Morro Das Pedras (Principal),3
+201   02,201,Morro Das Pedras (Via R.Nascimento Gurgel),3
+201   03,201,Morro Das Pedras (Via Vila Monte Sao Jose),3
+202   01,202,Estacao Vila Oeste (Principal),3
+202   02,202,Estacao Vila Oeste (Via Madre Gertrudes),3
+203   01,203,Morro Das Pedras/Ventosa (Principal),3
+2033  01,2033,Betania / Centro (Principal),3
+2034  01,2034,Conjunto Betania / Centro (Principal),3
+2035  01,2035,Bairro Das Industrias / Centro (Principal),3
+204   01,204,Estacao Vila Oeste / Nova Gameleira (Principal),3
+205   01,205,Metro Calafate/Buritis (Principal),3
+206   01,206,Circular Oeste (Principal),3
+2101  01,2101,Grajau/Sion (Principal),3
+2101  02,2101,Grajau/Sion (Desvio Feira Da Av. Afonso Pena),3
+2102  01,2102,Gameleira / Serra (Principal),3
+2102  02,2102,Gameleira / Serra (Desvio Feira Da Av. Afonso Pena),3
+2103  01,2103,Prado/Anchieta (Principal),3
+2104  01,2104,Nova Gameleira/Bh Shopping (Principal),3
+2104  02,2104,Nova Gameleira/Bh Shopping (Desvio Feira Da Av.Afonso Pena),3
+2104  04,2104,Nova Gameleira/Bh Shopping (Via Izabella Hendrix),3
+2150  01,2150,Grajau/Sion Via Contorno (Principal),3
+2151  01,2151,Vista Alegre/Serra (Principal),3
+2152  01,2152,Salgado Filho/Cruzeiro (Principal),3
+30    01,30,Estacao Diamante/Centro (Direta),3
+30    02,30,Estacao Diamante/Centro (Paradora),3
+30    03,30,Estacao Diamante/Centro (Paradora Via R.Dos Caetes),3
+30    08,30,Estacao Diamante/Centro (Zoologico),3
+301   01,301,Est.Diamante/Novo Sta.Cecilia V. Brasil Industrial (Principal),3
+302   01,302,Estacao Diamante / Vila Pinho (Principal),3
+302   04,302,Estacao Diamante / Vila Pinho (Noturno),3
+302   05,302,Estacao Diamante / Vila Pinho (Via Conjunto Aguas Claras),3
+3029  01,3029,Regina / Centro (Principal),3
+303   01,303,Estacao Diamante / Santa Cecilia Via Castanheiras (Principal),3
+303   03,303,Estacao Diamante / Santa Cecilia Via Castanheiras (Via Area Industrial),3
+3030  01,3030,Pilar-Olhos D Agua / Centro (Principal),3
+3030  02,3030,Pilar-Olhos D Agua / Centro (Desvio Feira Afonso Pena),3
+304   01,304,Estacao Diamante / Jatoba Iv (Principal),3
+305   01,305,Estacao Diamante / Mangueiras (Principal),3
+305   02,305,Estacao Diamante / Mangueiras (Noturno),3
+305   03,305,Estacao Diamante / Mangueiras (Via Setor Industrial),3
+305   04,305,Estacao Diamante / Mangueiras (Est.Diamante/Av.Solf. Ricci),3
+305   05,305,Estacao Diamante / Mangueiras (Partidas Da Av.Solferina Ricci),3
+305   06,305,Estacao Diamante / Mangueiras (Partidas-R. Geraldo R. Filho),3
+3050  01,3050,Estacao Diamante/Hospitais Via Bh Shopping (Principal),3
+3050  10,3050,Estacao Diamante/Hospitais Via Bh Shopping (Retorno Savassi-Pico Manha),3
+3050  14,3050,Estacao Diamante/Hospitais Via Bh Shopping (Retorno Bh Shopping),3
+3050  15,3050,Estacao Diamante/Hospitais Via Bh Shopping (Direta Do Anel/Savassi- Tarde),3
+3050  16,3050,Estacao Diamante/Hospitais Via Bh Shopping (Direta- Hospitais-Estacao),3
+3050  17,3050,Estacao Diamante/Hospitais Via Bh Shopping (Retorno Savassi-Pico Tarde),3
+3051  01,3051,Flavio Marques Lisboa / Savassi Via N.S.Carmo (Principal),3
+3051  03,3051,Flavio Marques Lisboa / Savassi Via N.S.Carmo (Retorno Expresso),3
+3052  01,3052,Estacao Diamante/Bh Shopping-Via Havai (Principal),3
+3052  02,3052,Estacao Diamante/Bh Shopping-Via Havai (Hospitais Via Havai- Domingo),3
+3052  04,3052,Estacao Diamante/Bh Shopping-Via Havai (Via Parque Das Mangabeiras),3
+3052  05,3052,Estacao Diamante/Bh Shopping-Via Havai (Via Bairro Buritis),3
+3053  01,3053,Estacao Barreiro/B.Preto (Principal),3
+3053  02,3053,Estacao Barreiro/B.Preto (Atendimento A Via Expressa),3
+3054  01,3054,Milionarios/Centro (Principal),3
+3054  02,3054,Milionarios/Centro (Retorno Expresso),3
+3055  01,3055,Estacao Barreiro/Savassi Via Bhshopping (Principal),3
+3055  04,3055,Estacao Barreiro/Savassi Via Bhshopping (Direta Estacao/Savassi-Tarde),3
+3055  05,3055,Estacao Barreiro/Savassi Via Bhshopping (Direta Savassi/Estacao-Manha),3
+308   01,308,Estacao Barreiro / Tirol (Principal),3
+308   02,308,Estacao Barreiro / Tirol (Noturno),3
+309   01,309,Estacao Diamante / Bairro Petropolis (Principal-Vila Santa Rita),3
+310   01,310,Estacao Diamante / 3 E 4 Secao (Principal),3
+311   01,311,Estacao Diamante / Independencia (Principal),3
+311   02,311,Estacao Diamante / Independencia (Noturno),3
+311   03,311,Estacao Diamante / Independencia (Est. Barreiro/Independencia),3
+311   04,311,Estacao Diamante / Independencia (R. F. Pitangueira/Est.Barreiro),3
+311   05,311,Estacao Diamante / Independencia (R. F.Pitangueira/Est.Diamante),3
+313   01,313,Estacao Diamante / Olaria (Principal),3
+314   01,314,Estacao Diamante/Estacao Barreiro Via Santa Helena (Principal),3
+315   01,315,Estacao Barreiro / Barreiro (Principal),3
+3150  01,3150,Regina-Lindeia / Bh Shopping Via Anel Rodoviario (Principal),3
+318   02,318,Estacao Barreiro/Jardim Liberdade Via Milionarios (Noturno-Atend. Aos Bairros Liberdade E Bonsucesso),3
+318   05,318,Estacao Barreiro/Jardim Liberdade Via Milionarios (Principal - Estacao Barreiro),3
+318   06,318,Estacao Barreiro/Jardim Liberdade Via Milionarios (Partidas Da Rua Jeremias),3
+318   08,318,Estacao Barreiro/Jardim Liberdade Via Milionarios (Atendimento A Regiao Do Liberdade),3
+319   01,319,Vila Cemig/Conj.Esperanca (Principal),3
+319   02,319,Vila Cemig/Conj.Esperanca (Via Pca. Jose Verano),3
+319   03,319,Vila Cemig/Conj.Esperanca (Via Hospital Julia Kubitschek),3
+319   04,319,Vila Cemig/Conj.Esperanca (Via Bonsucesso),3
+32    01,32,Estacao Barreiro/Centro-Tamoios (Direta),3
+32    02,32,Estacao Barreiro/Centro-Tamoios (Paradora),3
+32    07,32,Estacao Barreiro/Centro-Tamoios (Santo Agostinho - Direta),3
+321   01,321,Olhos D Agua / Pilar (Principal),3
+321   02,321,Olhos D Agua / Pilar (Via Setor Industrial),3
+325   01,325,Estacao Barreiro / Flavio Marques Lisboa (Principal),3
+325   02,325,Estacao Barreiro / Flavio Marques Lisboa (Noturno),3
+326   01,326,Estacao Barreiro / Vale Do Jatoba (Principal),3
+327   01,327,Estacao Barreiro / Cardoso A (Principal),3
+327   02,327,Estacao Barreiro / Cardoso A (Via Clube Da Copasa),3
+327   03,327,Estacao Barreiro / Cardoso A (Noturno),3
+328   01,328,Estacao Barreiro / Cardoso B (Principal),3
+328   02,328,Estacao Barreiro / Cardoso B (Partidas-R. Lucas C.Santos),3
+329   01,329,Estacao Barreiro / Jatoba (Principal),3
+329   02,329,Estacao Barreiro / Jatoba (Via Teresa Cristina),3
+33    01,33,Estacao Barreiro/Centro-Hospitais (Principal Paradora),3
+33    05,33,Estacao Barreiro/Centro-Hospitais (Direta),3
+33    06,33,Estacao Barreiro/Centro-Hospitais (Direta - Retorno Na R. Da Bahia),3
+330   01,330,Estacao Barreiro / Independencia (Principal),3
+330   02,330,Estacao Barreiro / Independencia (Noturno),3
+330   03,330,Estacao Barreiro / Independencia (Via Bairro Mineirao),3
+330   04,330,Estacao Barreiro / Independencia (R.F. Pitangueira/Independencia),3
+330   05,330,Estacao Barreiro / Independencia (R. Flor Pitangueira/Mineirao),3
+330   06,330,Estacao Barreiro / Independencia (Est. Bar/Independ.-Expresso),3
+330   08,330,Estacao Barreiro / Independencia (R. F. Pitangueira/Ret. Expresso),3
+3301A 01,3301A,Santa Terezinha (Principal),3
+3301B 01,3301B,Castelo (Principal),3
+3301B 02,3301B,Castelo (Via Bairro Santana),3
+3302A 01,3302A,Nova Pampulha Via Itamarati (Principal),3
+3302A 03,3302A,Nova Pampulha Via Itamarati (Via Hospitais),3
+3302A 04,3302A,Nova Pampulha Via Itamarati (Retorno Na Newton Paiva),3
+3302A 07,3302A,Nova Pampulha Via Itamarati (Partidas Da Rua Petropolis),3
+3302B 01,3302B,Braunas Via Itamarati (Principal),3
+3302B 02,3302B,Braunas Via Itamarati (Hospitais),3
+3302D 01,3302D,Braunas (Principal),3
+331   01,331,Estacao Barreiro/Conj.Antonio Teixeira Dias V.Upa (Principal),3
+331   02,331,Estacao Barreiro/Conj.Antonio Teixeira Dias V.Upa (Noturno),3
+331   03,331,Estacao Barreiro/Conj.Antonio Teixeira Dias V.Upa (Via Puc Barreiro),3
+332   01,332,Estacao Barreiro / Milionarios - Bonsucesso (Principal),3
+332   02,332,Estacao Barreiro / Milionarios - Bonsucesso (Partidas-R. Dr.Crist. Rezende),3
+335   01,335,Estacao Barreiro / Lindeia (Principal),3
+3350  01,3350,Est.Barreiro/Est.Diamante (Principal),3
+336   01,336,Hospital Eduardo De Menezes / Vila Bernadete (Principal),3
+336   02,336,Hospital Eduardo De Menezes / Vila Bernadete (Via Esc. M. B.Trindade-Manha),3
+336   03,336,Hospital Eduardo De Menezes / Vila Bernadete (Via Esc. M. B.Trindade-Tarde),3
+337   01,337,Estacao Barreiro / Itaipu (Principal),3
+34    02,34,Estacao Barreiro/Via Expressa (Principal),3
+340   01,340,Estacao Barreiro / Vila Mangueiras (Principal),3
+341   01,341,Estacao Barreiro / Estacao Diamante Via Saude (Principal),3
+342   01,342,Estacao Barreiro / Solar Via Estacao Diamante (Principal),3
+342   02,342,Estacao Barreiro / Solar Via Estacao Diamante (Noturno Via Brasil Industrial),3
+342   03,342,Estacao Barreiro / Solar Via Estacao Diamante (Partidas Da Rua Luiz Pongelupe),3
+342   04,342,Estacao Barreiro / Solar Via Estacao Diamante (Atendimento Ao Bairro Solar),3
+35    01,35,Estacao Barreiro/Centro (Principal),3
+35    02,35,Estacao Barreiro/Centro (Paradora-Via Sinf. Brochado),3
+3501A 01,3501A,Jardim Alvorada/Sao Marcos (Principal),3
+3501A 05,3501A,Jardim Alvorada/Sao Marcos (Via Condominio Fazenda Da Serra),3
+3501A 06,3501A,Jardim Alvorada/Sao Marcos (Retorno Expresso),3
+3501A 10,3501A,Jardim Alvorada/Sao Marcos (Via Est. Jose Candido),3
+3501A 11,3501A,Jardim Alvorada/Sao Marcos (Via Faz. Da Serra E Est.Jose Candido),3
+3501A 12,3501A,Jardim Alvorada/Sao Marcos (Via Fernao Dias),3
+3501B 01,3501B,Ouro Preto 3a Gleba/Bairro Ipe Via Jd. Montanhes (Principal),3
+3502  01,3502,Ouro Preto/Sao Gabriel (Principal),3
+3503A 01,3503A,Santa Terezinha/Sao Gabriel (Principal),3
+3503A 02,3503A,Santa Terezinha/Sao Gabriel (Noturno),3
+3503A 03,3503A,Santa Terezinha/Sao Gabriel (Partidas Do Ouro Minas),3
+3503A 06,3503A,Santa Terezinha/Sao Gabriel (Via Praca Divina Pastora),3
+401   01,401,Metro Cid.Industrial/S.Maria (Principal),3
+401   03,401,Metro Cid.Industrial/S.Maria (Via Vila Dos Esportes),3
+402   01,402,Metro Cid.Industrial/Camargos (Principal),3
+402   03,402,Metro Cid.Industrial/Camargos (Via R. Silex - Manha),3
+402   04,402,Metro Cid.Industrial/Camargos (Via R. Silex - Tarde),3
+402   05,402,Metro Cid.Industrial/Camargos (Via Santa Maria),3
+402   06,402,Metro Cid.Industrial/Camargos (Via Rua Silex-Sab E Dom),3
+4031  01,4031,Santa Maria / Hospitais (Principal),3
+4032  01,4032,Caicara /Savassi/ Pca. Da Liberdade (Principal),3
+4032  02,4032,Caicara /Savassi/ Pca. Da Liberdade (Desvio Feira Da Av. Afonso Pena),3
+4032  03,4032,Caicara /Savassi/ Pca. Da Liberdade (Retorno Na Praca Da Liberdade),3
+4033  01,4033,Camargos/Centro (Principal),3
+4033  03,4033,Camargos/Centro (Via Conj. Aldeias Da Serra),3
+4034  01,4034,Novo Dom Bosco / Savassi Via Padre Eustaquio (Principal),3
+4034  02,4034,Novo Dom Bosco / Savassi Via Padre Eustaquio (Desvio Feira Da Av. Afonso Pena),3
+4034  07,4034,Novo Dom Bosco / Savassi Via Padre Eustaquio (Via Conj.Filadelfia-Retorno Expresso),3
+4034  09,4034,Novo Dom Bosco / Savassi Via Padre Eustaquio (Atendimento Ao Conjunto Filadelfia),3
+4034  10,4034,Novo Dom Bosco / Savassi Via Padre Eustaquio (Via Novo Dom Bosco E Conj.Filadelfia),3
+4037  01,4037,Nossa Senhora Da Gloria / Centro (Principal),3
+406   01,406,Est.Ponto Sao Jose/Pindorama V. N.Sra. Da Gloria (Principal),3
+4102  01,4102,Aparecida/Serra (Principal),3
+4102  03,4102,Aparecida/Serra (Aparecida/Centro),3
+4102  04,4102,Aparecida/Serra (Aparecida/Centro Desvio Feira Av.Afonso Pena),3
+4103  01,4103,Aparecida/Mangabeiras (Principal),3
+4103  02,4103,Aparecida/Mangabeiras (Desvio Feira Da Av.Afonso Pena),3
+4103  06,4103,Aparecida/Mangabeiras (Via Amr),3
+4106  01,4106,Sao Cristovao/Santo Antonio (Principal),3
+4106  02,4106,Sao Cristovao/Santo Antonio (Desvio Feira Da Av. Afonso Pena),3
+4107  01,4107,Alto Caicara/Serra (Principal),3
+4107  02,4107,Alto Caicara/Serra (Desvio Feira Da Av. Afonso Pena),3
+4107  06,4107,Alto Caicara/Serra (Atendimento Aos Domingos E Feriados),3
+4108  01,4108,Pedro II/Mangabeiras (Principal),3
+4108  02,4108,Pedro II/Mangabeiras (Desvio Feira Da Av.Afonso Pena),3
+4108  04,4108,Pedro II/Mangabeiras (Via Rua Vila Rica),3
+4110  01,4110,Dom Cabral/Belvedere (Principal),3
+4111  01,4111,Dom Cabral/Anchieta (Principal),3
+4111  02,4111,Dom Cabral/Anchieta (Desvio Feira Da Av.Afonso Pena/Av.Bandeirantes),3
+4111  03,4111,Dom Cabral/Anchieta (Atendimento A Escola Guinard),3
+4111  04,4111,Dom Cabral/Anchieta (Retorno Na Praca Do Porto),3
+4111  05,4111,Dom Cabral/Anchieta (Desvio Feira Da Av.Afonso Pena/Retorno Pca Porto),3
+4113  01,4113,Bom Jesus/Belvedere (Principal),3
+4113  03,4113,Bom Jesus/Belvedere (Atendimento A Fundacao Torino),3
+4113  07,4113,Bom Jesus/Belvedere (Belvedere/Centro),3
+4114  01,4114,Bonfim / Centro (Principal),3
+4114  02,4114,Bonfim / Centro (Desvio Feira Da Av.Afonso Pena),3
+4150  02,4150,Shopping Del Rey/Bh Shopping (Principal),3
+4201  01,4201,Alto Caicara/Nova Cintra (Principal),3
+4205  01,4205,Ermelinda/Salgado Filho (Principal),3
+4403A 01,4403A,Zoologico Via Serrano (Principal),3
+4403A 03,4403A,Zoologico Via Serrano (Noturno),3
+4403A 05,4403A,Zoologico Via Serrano (Retorno Expresso),3
+4403C 01,4403C,Residencial Sarandi (Principal),3
+4403D 01,4403D,Urca-Confisco (Principal),3
+4403D 03,4403D,Urca-Confisco (Via Residencial Sarandi),3
+4405  01,4405,Coqueiros (Principal),3
+4405  03,4405,Coqueiros (Rua Eneida/Retorno Augusto De Lima),3
+4405  05,4405,Coqueiros (Atend. Hospitais E Rua Eneida),3
+4405  06,4405,Coqueiros (Atendimento Noturno),3
+4410  01,4410,Celso Machado Via Saramenha/Urca (Principal),3
+4501  01,4501,California II / Sao Paulo (Principal),3
+4501  02,4501,California II / Sao Paulo (Partida Intermed. Conj California I),3
+4501  04,4501,California II / Sao Paulo (California II / Centro),3
+4801A 01,4801A,Jardim Filadelfia/Boa Vista A (Principal),3
+4801A 02,4801A,Jardim Filadelfia/Boa Vista A (Via R. Iraci-Novo Gloria),3
+4802A 01,4802A,Pindorama/Boa Vista (Principal),3
+4802A 03,4802A,Pindorama/Boa Vista (Atendimento Ao Jardim Filadelfia),3
+4802A 05,4802A,Pindorama/Boa Vista (Inversao De Pc - Bairro Pindorama),3
+50    01,50,Estacao Pampulha / Centro - Direta (Principal),3
+503   01,503,Estacao Sao Gabriel / Aparecida / Santa Rosa (Principal),3
+5031  01,5031,Suzana/Savassi-Via Universitario (Principal),3
+5031  02,5031,Suzana/Savassi-Via Universitario (Desvio Feira Da Av.Afonso Pena),3
+504   01,504,Estacao Sao Gabriel / Santa Rosa / Aparecida (Principal),3
+506   01,506,Estacao Ponto Sao Jose / Av. Antonio Carlos  (Via Castelo),3
+506   02,506,Estacao Ponto Sao Jose / Av. Antonio Carlos  (Via Ouro Preto),3
+507   01,507,Ouro Preto / Shopping Del Rey (Principal),3
+51    01,51,Estacao Pampulha / Centro / Hospitais (Principal),3
+51    02,51,Estacao Pampulha / Centro / Hospitais (Noturno),3
+51    03,51,Estacao Pampulha / Centro / Hospitais (Direta),3
+510   01,510,Estacao Pampulha / Trevo Via Garcas (Principal),3
+5101  01,5101,Suzana/Cruzeiro (Principal),3
+5101  02,5101,Suzana/Cruzeiro (Desvio Feira Da Av.Afonso Pena),3
+5102  01,5102,Ufmg/Santo Antonio (Principal),3
+5102  03,5102,Ufmg/Santo Antonio (Nao Atendimento A Ufmg),3
+5102  04,5102,Ufmg/Santo Antonio (Atendimento Ao Cnen - Centro / Ufmg),3
+5102  06,5102,Ufmg/Santo Antonio (Retorno Na Pca Da Liberdade),3
+5102  09,5102,Ufmg/Santo Antonio (Nao Atendimento Ao Centro Pedagogico),3
+5106  01,5106,Bandeirantes / Bh Shopping (Principal),3
+5106  02,5106,Bandeirantes / Bh Shopping (Noturno),3
+5106  03,5106,Bandeirantes / Bh Shopping (Desvio Feira-Av.Afonso Pena),3
+5106  04,5106,Bandeirantes / Bh Shopping (Nao Atendimento Ao Clube Bh),3
+5106  05,5106,Bandeirantes / Bh Shopping (Nao At.Clube Bh/Desvio-Feira),3
+5106  06,5106,Bandeirantes / Bh Shopping (Estacao Ufmg/Savassi),3
+511   01,511,Estacao Ponto Sao Jose / Jardim Alvorada (Principal),3
+512   01,512,Circuito Pampulha (Principal),3
+52    01,52,Estacao Pampulha / Av. Antonio Carlos (Principal),3
+5201  03,5201,Dona Clara/Buritis (Principal),3
+5201  09,5201,Dona Clara/Buritis (Noturno),3
+5201  10,5201,Dona Clara/Buritis (Partidas Est. Sao Francisco),3
+5250  01,5250,Estacao Pampulha / Betania (Principal),3
+5250  02,5250,Estacao Pampulha / Betania (Noturno),3
+5250  03,5250,Estacao Pampulha / Betania (Via Area Central),3
+5250  04,5250,Estacao Pampulha / Betania (Direta/Retorno Cefet I),3
+533   01,533,Castelo / Shopping Del Rey (Principal),3
+535   01,535,Xangrila Via Itamarati / Shopping Del Rey (Principal),3
+5401  01,5401,Sao Luis/Dom Cabral (Principal),3
+5401  05,5401,Sao Luis/Dom Cabral (Via Al. Do Ipe Branco),3
+5401  06,5401,Sao Luis/Dom Cabral (Noturno),3
+5502C 01,5502C,Pousada Santo Antonio (Principal),3
+5502C 06,5502C,Pousada Santo Antonio (Atendimento Ao Bairro Vitoria-Via Pousada (Manha)),3
+5502C 07,5502C,Pousada Santo Antonio (Atendimento Ao Bairro Vitoria-Via Pousada (Tarde)),3
+5502C 08,5502C,Pousada Santo Antonio (Retorno Expresso),3
+5503A 02,5503A,Goiania A (Principal),3
+5503A 03,5503A,Goiania A (Noturno),3
+5503A 04,5503A,Goiania A (Via Vila S. Jorge E Est.Jose Candido),3
+5503A 06,5503A,Goiania A (Via Vila Sao Jorge),3
+5503A 07,5503A,Goiania A (Via Est. Jose Candido),3
+5503A 08,5503A,Goiania A (Retorno No Centro),3
+5503B 02,5503B,Goiania B (Principal),3
+5506A 01,5506A,Ribeiro De Abreu (Principal),3
+5506A 02,5506A,Ribeiro De Abreu (Retorno Expresso (Portas Fechadas)),3
+5550  01,5550,Estacao Pampulha / Estacao Ponto Sao Jose (Principal),3
+6030  01,6030,Cidade Administrativa/Savassi Via Hospitais (Principal),3
+6030  02,6030,Cidade Administrativa/Savassi Via Hospitais (Via Andradas),3
+6031  01,6031,Cidade Administrativa/Centro (Principal),3
+607   01,607,Estacao Vilarinho / Esplendor (Principal),3
+608   01,608,Estacao Venda Nova / Nova Pampulha (Principal),3
+608   04,608,Estacao Venda Nova / Nova Pampulha (Via Escola Maria Andrade),3
+609   01,609,Serra Verde/Santa Monica (Principal),3
+609   02,609,Serra Verde/Santa Monica (Cid.Admin-Sentido Serra Verde),3
+609   03,609,Serra Verde/Santa Monica (Cid.Admin-Sentido Sta Monica),3
+61    01,61,Estacao Venda Nova/Centro-Direta (Principal),3
+614   01,614,Estacao Pampulha / Ceu Azul A (Principal),3
+614   02,614,Estacao Pampulha / Ceu Azul A (Noturno),3
+614   03,614,Estacao Pampulha / Ceu Azul A (Partidas-Av. O.  Brasil Junior),3
+614   04,614,Estacao Pampulha / Ceu Azul A (Partidas-Rua Jose Rocha Paixao),3
+614   05,614,Estacao Pampulha / Ceu Azul A (Desvio Festa De Sao Lazaro),3
+615   01,615,Estacao Pampulha / Ceu Azul B (Principal),3
+615   02,615,Estacao Pampulha / Ceu Azul B (Atendimento Nos Picos),3
+616   01,616,Estacao Pampulha / Ceu Azul C (Principal),3
+616   02,616,Estacao Pampulha / Ceu Azul C (Noturno),3
+617   01,617,Estacao Pampulha / Piratininga Via Rio Branco (Principal),3
+617   02,617,Estacao Pampulha / Piratininga Via Rio Branco (Noturno),3
+617   03,617,Estacao Pampulha / Piratininga Via Rio Branco (Atendimento Nos Picos),3
+618   01,618,Estacao Pampulha/Rio Branco Via Jardim Leblon (Principal),3
+618   02,618,Estacao Pampulha/Rio Branco Via Jardim Leblon (Noturno),3
+618   03,618,Estacao Pampulha/Rio Branco Via Jardim Leblon (Partidas Do Jardim Leblon),3
+619   01,619,Estacao Pampulha / Santa Monica Via Santa Branca (Principal),3
+619   02,619,Estacao Pampulha / Santa Monica Via Santa Branca (Noturno),3
+619   03,619,Estacao Pampulha / Santa Monica Via Santa Branca (Via R. Visconde De Taunay),3
+62    01,62,Estacao Venda Nova/Savassi Via Hospitais (Principal),3
+62    03,62,Estacao Venda Nova/Savassi Via Hospitais (Parque Das Mangabeiras),3
+62    07,62,Estacao Venda Nova/Savassi Via Hospitais (Noturno),3
+62    12,62,Estacao Venda Nova/Savassi Via Hospitais (Via Estacao Vilarinho),3
+62    13,62,Estacao Venda Nova/Savassi Via Hospitais (Direta),3
+62    14,62,Estacao Venda Nova/Savassi Via Hospitais (Est. V. Nova/Savassi-Direta),3
+620   01,620,Estacao Pampulha / Santa Monica Via Santa Amelia (Principal),3
+621   01,621,Estacao Venda Nova / Lagoa (Principal),3
+621   05,621,Estacao Venda Nova / Lagoa (Partidas-Rua J. Sabino Maciel),3
+622   01,622,Estacao Venda Nova / Lagoinha (Principal),3
+622   07,622,Estacao Venda Nova / Lagoinha (Noturno),3
+623   01,623,Estacao Venda Nova / Vila Santa Branca (Principal),3
+623   02,623,Estacao Venda Nova / Vila Santa Branca (Noturno),3
+624   01,624,Estacao Venda Nova / Maria Helena A (Principal),3
+624   02,624,Estacao Venda Nova / Maria Helena A (Noturno),3
+625   01,625,Estacao Venda Nova / Maria Helena B (Principal),3
+625   02,625,Estacao Venda Nova / Maria Helena B (Noturno),3
+626   02,626,Estacao Venda Nova/Esplendor Via Nova America (Noturno),3
+626   05,626,Estacao Venda Nova/Esplendor Via Nova America (Partidas Da Est.Venda Nova),3
+626   06,626,Estacao Venda Nova/Esplendor Via Nova America (Principal),3
+627   02,627,Estacao Venda Nova/Mantiqueira (Noturno),3
+627   06,627,Estacao Venda Nova/Mantiqueira (Principal),3
+63    01,63,Estacao Venda Nova/Lagoinha (Principal),3
+63    05,63,Estacao Venda Nova/Lagoinha (Centro Via Est.Vilarinho),3
+63    06,63,Estacao Venda Nova/Lagoinha (Noturno),3
+630   01,630,Estacao Vilarinho/Serra Verde Via Av.Salamanca (Principal),3
+631   01,631,Estacao Vilarinho / Serra Verde Via Minas Caixa (Principal),3
+631   02,631,Estacao Vilarinho / Serra Verde Via Minas Caixa (Atendimento Ao Canaa),3
+633   01,633,Estacao Vilarinho / Jardim Dos Comerciarios (Principal),3
+633   02,633,Estacao Vilarinho / Jardim Dos Comerciarios (Noturno),3
+634   01,634,Est. Vilarinho/Nova York Via Jd.Dos Comerciarios (Principal),3
+634   04,634,Est. Vilarinho/Nova York Via Jd.Dos Comerciarios (Atendimento A Antena),3
+634   05,634,Est. Vilarinho/Nova York Via Jd.Dos Comerciarios (Via Estacao Venda Nova),3
+635   02,635,Estacao Vilarinho / Jardim Dos Comerciarios C (Principal),3
+6350  01,6350,Est.Vilarinho/Est.Barreiro Via Anel Rodoviario (Principal),3
+636   02,636,Estacao Vilarinho / Jardim Europa (Principal),3
+637   01,637,Estacao Vilarinho / Canaa Via Serra Verde (Principal),3
+637   04,637,Estacao Vilarinho / Canaa Via Serra Verde (Est.Vilarinho/Canaa Via Mg-010),3
+637   07,637,Estacao Vilarinho / Canaa Via Serra Verde (Est. Vilarinho/R.Luanda-Canaa),3
+638   01,638,Estacao Vilarinho/Minas Caixa (Principal),3
+639   01,639,Braunas / Shopping Del Rey (Principal),3
+64    01,64,Estacao Venda Nova/Assembleia Via Carlos Luz (Principal),3
+64    03,64,Estacao Venda Nova/Assembleia Via Carlos Luz (Retorno Av.Dom Pedro II),3
+64    09,64,Estacao Venda Nova/Assembleia Via Carlos Luz (Via Estacao Vilarinho),3
+64    10,64,Estacao Venda Nova/Assembleia Via Carlos Luz (Zoologico),3
+640   01,640,Estacao Venda Nova / Jardim Leblon Via Rio Branco (Principal),3
+641   01,641,Estacao Vilarinho/Serra Verde (Principal),3
+642   01,642,Est. Venda Nova/Est. Vilarinho/Cid.Administrativa (Principal),3
+642   02,642,Est. Venda Nova/Est. Vilarinho/Cid.Administrativa (Est. Venda Nova/Est. Vilarinho),3
+642   03,642,Est. Venda Nova/Est. Vilarinho/Cid.Administrativa (Partidas Da Est. Venda Nova),3
+643   01,643,Estacao Pampulha / Copacabana Via Monte Carmelo (Principal),3
+644   01,644,Estacao Pampulha / Sao Joao Batista (Principal),3
+644   02,644,Estacao Pampulha / Sao Joao Batista (Noturno),3
+644   03,644,Estacao Pampulha / Sao Joao Batista (Partidas-Pca Pedro A. Moreira),3
+645   01,645,Est. Pampulha / Santa Monica Via Jardim Atlantico (Principal),3
+65    01,65,Estacao Vilarinho/Centro Via Antonio Carlos-Direta (Principal),3
+66    01,66,Estacao Vilarinho/Centro/Hospitais Via C.Machado (Principal),3
+66    07,66,Estacao Vilarinho/Centro/Hospitais Via C.Machado (Direta),3
+67    01,67,Estacao Vilarinho/Santo Agostinho Via Carlos Luz (Principal),3
+68    01,68,Estacao Vilarinho / Lagoinha (Principal),3
+702   01,702,Estacao Sao Gabriel / Xodo-Marize (Principal),3
+703   01,703,Estacao Sao Gabriel / Guarani A (Principal),3
+705   01,705,Estacao Sao Gabriel / Sao Tomaz (Principal),3
+705   06,705,Estacao Sao Gabriel / Sao Tomaz (Centro Esp. Médica-Unifenas),3
+706   01,706,Estacao Sao Gabriel / Heliopolis (Principal),3
+707   01,707,Estacao Sao Gabriel / Jardim Guanabara (Principal),3
+708   01,708,Estacao Sao Gabriel / Felicidade (Principal),3
+709   01,709,Estacao Sao Gabriel / Tupi (Principal),3
+710   01,710,Estacao Sao Gabriel / Providencia (Principal),3
+711   01,711,Estacao Sao Gabriel / Solimoes (Principal),3
+712   01,712,Estacao Pampulha / Sao Bernardo (Principal),3
+712   02,712,Estacao Pampulha / Sao Bernardo (Noturno),3
+712   03,712,Estacao Pampulha / Sao Bernardo (Retorno Expresso - Manha),3
+712   04,712,Estacao Pampulha / Sao Bernardo (Retorno Expresso - Tarde),3
+713   01,713,Estacao Sao Gabriel / Lajedo (Principal),3
+713   03,713,Estacao Sao Gabriel / Lajedo (Noturno),3
+714   01,714,Estacao Sao Gabriel / Casas Populares (Principal),3
+715   01,715,Estacao Sao Gabriel / Monte Azul (Principal),3
+716   01,716,Estacao Sao Gabriel / Novo Aarao Reis (Principal),3
+717   01,717,Estacao Pampulha / Campo Alegre (Principal),3
+717   02,717,Estacao Pampulha / Campo Alegre (Via Julio Maria),3
+717   03,717,Estacao Pampulha / Campo Alegre (Retorno Expresso),3
+718   01,718,Estacao Pampulha / Planalto (Principal),3
+719   01,719,Estacao Pampulha / Floramar (Principal),3
+719   02,719,Estacao Pampulha / Floramar (Noturno),3
+719   03,719,Estacao Pampulha / Floramar (Retorno Expresso),3
+732   01,732,Estacao Sao Gabriel / Tupi-Felicidade (Principal),3
+734   01,734,Estacao Sao Gabriel / Aarao Reis Via Minaslandia (Principal),3
+735   01,735,Estacao Vilarinho/Juliana A (Principal),3
+736   01,736,Estacao Vilarinho/Juliana B (Principal),3
+737   01,737,Estacao Vilarinho/Jaqueline (Principal),3
+737   03,737,Estacao Vilarinho/Jaqueline (Partidas-E.E. P. Comanducci),3
+738   01,738,Estacao Vilarinho/Conj.Zilah Sposito (Principal),3
+739   01,739,Est.Vilarinho/Jaqueline 2ªSecao Via Frei Leopoldo (Principal),3
+739   03,739,Est.Vilarinho/Jaqueline 2ªSecao Via Frei Leopoldo (Noturno),3
+8001A 01,8001A,Santa Ines/Bh Shopping (Principal),3
+8001A 02,8001A,Santa Ines/Bh Shopping (Desvio Feira Av.Afonso Pena),3
+8001A 04,8001A,Santa Ines/Bh Shopping (Retorno Av.Senhora Do Carmo),3
+806   01,806,Estacao Sao Gabriel / Vista Do Sol Via Nazare (Principal),3
+807   01,807,Estacao Sao Gabriel / Ribeiro De Abreu A (Principal),3
+808   01,808,Estacao Sao Gabriel / Paulo Vi (Principal),3
+808   07,808,Estacao Sao Gabriel / Paulo Vi (Via Parque Real),3
+809   01,809,Estacao Sao Gabriel / Belmonte (Principal),3
+810   01,810,Estacao Sao Gabriel/Parque Belmonte Via D.Silverio (Principal),3
+8101  01,8101,Santa Cruz/Alto Santa Lucia (Principal),3
+8101  03,8101,Santa Cruz/Alto Santa Lucia (Santa Cruz/Centro),3
+8102  01,8102,Uniao/Carmo Sion (Principal),3
+8102  02,8102,Uniao/Carmo Sion (Atendimento A Praca Miguel Chiquiloff),3
+8102  04,8102,Uniao/Carmo Sion (Desvio Feira Av.Afonso Pena),3
+8103  01,8103,Nova Floresta/Santa Lucia (Principal),3
+8103  02,8103,Nova Floresta/Santa Lucia (Atendimento A Praca Do Sol),3
+8103  03,8103,Nova Floresta/Santa Lucia (Noturno),3
+8103  04,8103,Nova Floresta/Santa Lucia (Santa Lucia/Centro (Retorno Na R.Dos Tamoios)),3
+8106  01,8106,Santa Cruz/Bh Shopping Via Belvedere (Principal),3
+8106  02,8106,Santa Cruz/Bh Shopping Via Belvedere (Desvio Feira Av. Afonso Pena),3
+8106  03,8106,Santa Cruz/Bh Shopping Via Belvedere (Retorno Expresso),3
+8107  01,8107,Concordia/Sao Pedro (Principal),3
+8107  02,8107,Concordia/Sao Pedro (Desvio Feira Av. Afonso Pena),3
+8108  01,8108,Cidade Nova/Savassi (Principal),3
+8108  02,8108,Cidade Nova/Savassi (Desvio Feira Av. Afonso Pena),3
+811   01,811,Estacao Sao Gabriel / Vista Do Sol Via Puc (Principal),3
+812   01,812,Estacao Sao Gabriel / Sao Gabriel A (Principal),3
+813   01,813,Estacao Sao Gabriel/Paulo Vi Via Ribeiro De Abreu (Principal),3
+813   02,813,Estacao Sao Gabriel/Paulo Vi Via Ribeiro De Abreu (Via Conj. Ribeiro De Abreu),3
+814   01,814,Estacao Sao Gabriel / Jardim Vitoria (Principal),3
+814   02,814,Estacao Sao Gabriel / Jardim Vitoria (Via Pousada Sto Antonio),3
+814   03,814,Estacao Sao Gabriel / Jardim Vitoria (Noturno),3
+815   01,815,Estacao Sao Gabriel / Conjunto Paulo Vi (Principal),3
+815   02,815,Estacao Sao Gabriel / Conjunto Paulo Vi (Noturno Via Rua Sao Jacinto),3
+815   04,815,Estacao Sao Gabriel / Conjunto Paulo Vi (Conj.Paulo Vi/Estacao),3
+8150  01,8150,Uniao/Serra (Principal),3
+8151  01,8151,Est. Sao Gabriel/Bh Shopping Via Anel Rodoviario (Principal),3
+8151  02,8151,Est. Sao Gabriel/Bh Shopping Via Anel Rodoviario (Partidas Da Estacao Sao Gabriel),3
+8151  03,8151,Est. Sao Gabriel/Bh Shopping Via Anel Rodoviario (Bh Shopping / Estacao Sao Gabriel),3
+82    01,82,Estacao Sao Gabriel / Savassi Via Hospitais (Principal),3
+8203  01,8203,Renascenca/Buritis (Principal),3
+8203  03,8203,Renascenca/Buritis (Atendimento Av.Deputado Cristovam Chiaradia),3
+8203  04,8203,Renascenca/Buritis (Noturno),3
+8203  07,8203,Renascenca/Buritis (Via R. Borborema),3
+8203  08,8203,Renascenca/Buritis (Atend.A Av.Dep.Crist.Chiaradia/Borborema/Buritis 2),3
+8203  09,8203,Renascenca/Buritis (Atendimento Ao Buritis II),3
+8205  01,8205,Maria Goretti/Nova Granada (Principal),3
+8205  02,8205,Maria Goretti/Nova Granada (Via Alto Barroca),3
+8205  03,8205,Maria Goretti/Nova Granada (Desvio Feira Da Silva Lobo),3
+8205  04,8205,Maria Goretti/Nova Granada (Desvio Feira Silva Lobo Via Alto Barroca),3
+8205  05,8205,Maria Goretti/Nova Granada (Via Bairro Sao Paulo),3
+8205  06,8205,Maria Goretti/Nova Granada (Via Bairro Sao Paulo E Alto Barroca),3
+8207  01,8207,Maria Goretti/Estrela Dalva (Principal),3
+8207  03,8207,Maria Goretti/Estrela Dalva (Retorno Expresso),3
+8207  04,8207,Maria Goretti/Estrela Dalva (Partidas Da Rua Barreiro Grande),3
+8208  01,8208,Santa Cruz / Uni-Estoril (Principal),3
+821   01,821,Estacao Jose Candido / Goiania (Principal),3
+822   01,822,Estacao Jose Candido/Vila Maria (Principal),3
+822   02,822,Estacao Jose Candido/Vila Maria (Via Av. Magenta),3
+822   03,822,Estacao Jose Candido/Vila Maria (Partidas-R.Prof.Wladimir Gomes),3
+823   01,823,Estacao Sao Gabriel / Bairro Vitoria (Principal),3
+823   02,823,Estacao Sao Gabriel / Bairro Vitoria (Via Est. Jose Candido),3
+825   01,825,Estacao Sao Gabriel/Vitoria II Via Upa-Nordeste (Principal),3
+832   01,832,Estacao Sao Gabriel / Capitao Eduardo (Principal),3
+832   02,832,Estacao Sao Gabriel / Capitao Eduardo (Rua Das Mangueiras - Manha),3
+832   03,832,Estacao Sao Gabriel / Capitao Eduardo (Rua Das Mangueiras - Tarde),3
+832   04,832,Estacao Sao Gabriel / Capitao Eduardo (Via Csesc - Manha),3
+832   05,832,Estacao Sao Gabriel / Capitao Eduardo (Via Csesc - Tarde),3
+8350  02,8350,Estacao Sao Gabriel/Estacao Barreiro (Principal),3
+8350  07,8350,Estacao Sao Gabriel/Estacao Barreiro (Direta-Amazonas/Shop-Del Rey),3
+836   01,836,Estacao Sao Gabriel / Ribeiro De Abreu B (Principal),3
+837   01,837,Estacao Sao Gabriel / Conjunto Ribeiro De Abreu (Principal),3
+83D   01,83D,Estacao Sao Gabriel / Centro - Direta (Principal),3
+83P   01,83P,Estacao Sao Gabriel / Centro - Paradora (Principal),3
+83P   02,83P,Estacao Sao Gabriel / Centro - Paradora (Hospitais),3
+8401  01,8401,Cachoeirinha/Sao Jose (Principal),3
+8401  04,8401,Cachoeirinha/Sao Jose (Sao Jose / Centro),3
+8405  01,8405,Palmares/Bela Vista (Principal),3
+85    01,85,Estacao Sao Gabriel / Centro Via Floresta (Principal),3
+8501  01,8501,Maria Goretti/Engenho Nogueira Via Ouro Preto (Principal),3
+8550  01,8550,Est. Sao Gabriel / Zoologico Via Est. Pampulha (Principal),3
+901   01,901,Circular Leste (Principal),3
+901   03,901,Circular Leste (Nao Atendimento-Pam S.Familia),3
+901   04,901,Circular Leste (Retorno-Bairro Sagrada Familia),3
+9030  01,9030,Castanheiras/Centro (Principal),3
+9030  02,9030,Castanheiras/Centro (Partidas Da Rua Dos Caetes),3
+9031  01,9031,Nossa Senhora De Fatima/Centro (Principal),3
+9032  01,9032,Granja De Freitas (Principal),3
+9032  05,9032,Granja De Freitas (Desvio Feira Afonso Pena),3
+9101  01,9101,Alto Vera Cruz/Santa Lucia (Principal),3
+9101  02,9101,Alto Vera Cruz/Santa Lucia (Alto Sta Lucia-Desvio Feira Af.Pena),3
+9101  03,9101,Alto Vera Cruz/Santa Lucia (Alto Santa Lucia),3
+9103  01,9103,Santa Tereza/Santo Antonio (Principal),3
+9103  03,9103,Santa Tereza/Santo Antonio (Desvio Feira Av.Afonso Pena),3
+9104  01,9104,Sagrada Familia/Luxemburgo (Principal),3
+9104  02,9104,Sagrada Familia/Luxemburgo (Ponto Final Na Rua Guaicui),3
+9104  04,9104,Sagrada Familia/Luxemburgo (Retorno Expresso(Portas Fechadas)),3
+9105  01,9105,Nova Vista/Sion (Principal),3
+9105  04,9105,Nova Vista/Sion (Nova Vista / Centro),3
+9105  05,9105,Nova Vista/Sion (Desvio Feira Av.Afonso Pena),3
+9106  01,9106,Sagrada Familia/Serra (Principal),3
+9106  02,9106,Sagrada Familia/Serra (Desvio Feira Av.Afonso Pena),3
+9201  05,9201,Baleia/Nova Granada (Principal),3
+9201  06,9201,Baleia/Nova Granada (Unidade Antonio Mourao Guimaraes),3
+9201  07,9201,Baleia/Nova Granada (Desvio Feira Da Av. Silva Lobo),3
+9202  03,9202,Pompeia/Jardim America (Principal),3
+9202  04,9202,Pompeia/Jardim America (Desvio Feira Av. Afonso Pena),3
+9204  01,9204,Santa Efigenia/Estoril (Principal),3
+9204  05,9204,Santa Efigenia/Estoril (Santa Efigenia / Centro),3
+9204  06,9204,Santa Efigenia/Estoril (Santa Efigenia / Centro-Desvio Feira Da Av.Af.Pena),3
+9205  01,9205,Nova Vista/Nova Cintra (Principal),3
+9205  03,9205,Nova Vista/Nova Cintra (Atendimento Ao Bairro Patrocinio),3
+9206  01,9206,Vera Cruz/Buritis (Principal),3
+9208  01,9208,Taquaril/Conjunto Santa Maria (Principal),3
+9208  02,9208,Taquaril/Conjunto Santa Maria (Nao Atendimento A R. Ercilia Siqueira),3
+9208  03,9208,Taquaril/Conjunto Santa Maria (Taquaril/Centro),3
+9208  04,9208,Taquaril/Conjunto Santa Maria (Atendimento A Rua Padre Feijo),3
+9209  01,9209,Sagrada Familia/Gutierrez (Principal),3
+9210  01,9210,Santa Teresa/Prado (Principal),3
+9211  01,9211,Caetano Furquim/Havai (Principal),3
+9214  02,9214,Caetano Furquim / Havai - Via Alto Havai (Principal),3
+9214  03,9214,Caetano Furquim / Havai - Via Alto Havai (Havai Via Alto Havai / Centro),3
+9250  02,9250,Caetano Furquim/Nova Cintra Via Savassi (Principal),3
+9250  04,9250,Caetano Furquim/Nova Cintra Via Savassi (Retorno Hospitais),3
+9402  01,9402,Santa Ines/Santo Andre (Principal),3
+9403  01,9403,Paraiso/Caicara (Principal),3
+9403  02,9403,Paraiso/Caicara (Desvio Feira Da Av.Afonso Pena),3
+9403  03,9403,Paraiso/Caicara (Atendimento A Rua Aureliano Magalhaes),3
+9404  01,9404,Sao Lucas/Nova Esperanca (Principal),3
+9405  03,9405,Instituto Agronomico/Monsenhor Messias (Principal),3
+9405  04,9405,Instituto Agronomico/Monsenhor Messias (Desvio Da Rua Francisco Bicalho),3
+9407  01,9407,Alto Vera Cruz/Dom Bosco (Principal),3
+9407  02,9407,Alto Vera Cruz/Dom Bosco (Desvio Feira Da Av.Afonso Pena),3
+9407  03,9407,Alto Vera Cruz/Dom Bosco (Atendimento A R. Osmario Soares),3
+9407  04,9407,Alto Vera Cruz/Dom Bosco (Desvio Feira Da Av.Afonso Pena/At. Osmario Soares),3
+9408  01,9408,Santa Efigenia/Padre Eustaquio (Principal),3
+9408  02,9408,Santa Efigenia/Padre Eustaquio (Desvio Feira Da Av.Afonso Pena),3
+9410  01,9410,Sagrada Familia/Coracao Eucaristico (Principal),3
+9411  01,9411,Casa Branca/Sao Jose (Principal),3
+9411  03,9411,Casa Branca/Sao Jose (Partida E.E. Walt Disney),3
+9412  11,9412,Conj.Taquaril/Padre Eustaquio (Principal),3
+9412  12,9412,Conj.Taquaril/Padre Eustaquio (Desvio Feira Afonso Pena),3
+9412  13,9412,Conj.Taquaril/Padre Eustaquio (Noturno),3
+9412  14,9412,Conj.Taquaril/Padre Eustaquio (Noturno E Desvio Feira Afonso Pena),3
+9414  01,9414,Santa Ines/Joao Pinheiro (Principal),3
+9414  03,9414,Santa Ines/Joao Pinheiro (Atendimento Ao California),3
+9414  04,9414,Santa Ines/Joao Pinheiro (Atendimento A Rua Quinze (Marilac)),3
+9501  01,9501,Sao Lucas/Jaragua (Principal),3
+9501  05,9501,Sao Lucas/Jaragua (Desvio Feira Da Av.Afonso Pena),3
+9501  07,9501,Sao Lucas/Jaragua (Atendimento Ao Novo Sao Lucas),3
+9502  01,9502,Sao Geraldo/Sao Francisco Via Esplanada (Principal),3
+9502  02,9502,Sao Geraldo/Sao Francisco Via Esplanada (Atendimento A 4 Companhia),3
+9502  03,9502,Sao Geraldo/Sao Francisco Via Esplanada (Atendimento A Ufmg),3
+9502  04,9502,Sao Geraldo/Sao Francisco Via Esplanada (Zoologico Via Museu De Arte),3
+9502  05,9502,Sao Geraldo/Sao Francisco Via Esplanada (Atendimento Direto Ufmg),3
+9503  01,9503,Taquaril/Jaragua (Principal),3
+9503  02,9503,Taquaril/Jaragua (Desvio Feira Da Av.Afonso Pena),3
+9550  01,9550,Casa Branca/Sao Francisco Via Est. Jose Candido (Principal),3
+9550  02,9550,Casa Branca/Sao Francisco Via Est. Jose Candido (Atendimento A Ufmg),3
+9550  03,9550,Casa Branca/Sao Francisco Via Est. Jose Candido (Partida E.E. Walt Disney),3
+9801  01,9801,Saudade/Santa Cruz (Principal),3
+9801  02,9801,Saudade/Santa Cruz (Atendimento Ao Jonas Veiga),3
+9803  01,9803,Taquaril/Palmares (Principal),3
+9803  02,9803,Taquaril/Palmares (Desvio Feira Da Av. Afonso Pena),3
+9805  02,9805,Santa Efigenia/Renascenca (Desvio Feira Da Av. Afonso Pena),3
+9805  03,9805,Santa Efigenia/Renascenca (Principal),3
+9850  01,9850,Estacao Jose Candido / Estacao Sao Gabriel (Principal),3
+METRO 01,METRO,Venda Nova / Eldorado,0
+METRO 02,METRO,Eldorado / Venda Nova,0
+S10   01,S10,Bh Shopping / Sao Francisco (Principal),3
+S20   01,S20,Palmeiras / Serra (Principal),3
+S21   01,S21,Dom Cabral / Bh Shopping (Principal),3
+S22   01,S22,Buritis / Metro Calafate (Principal),3
+S22   02,S22,Buritis / Metro Calafate (Partidas Da Av.Raul Mourao Guimaraes),3
+S22   03,S22,Buritis / Metro Calafate (Estacao Calafate Ate Av.Dom Joao Vi),3
+S31   01,S31,Petropolis / Bairro Das Industrias (Principal),3
+S32   01,S32,Itaipu / Cardoso (Principal),3
+S33   01,S33,Lindeia / Milionarios (Principal),3
+S33   02,S33,Lindeia / Milionarios (Partidas Da Rua Betula),3
+S33   03,S33,Lindeia / Milionarios (Lindeia/Milionarios (Encerra No Bairro Milionarios),3
+S41   01,S41,Conjunto California / Prado (Principal),3
+S50   01,S50,Caicara / Nova Vista Via Ufmg (Principal),3
+S50   02,S50,Caicara / Nova Vista Via Ufmg (Nao Atendimento A Ufmg),3
+S51   01,S51,Circular Pampulha (Principal - Via Portugal),3
+S51   03,S51,Circular Pampulha (Via Santa Terezinha),3
+S53   01,S53,Confisco / Ouro Minas (Principal),3
+S54   01,S54,Dom Bosco / Shopping Del Rey (Principal Via Castelo),3
+S54   02,S54,Dom Bosco / Shopping Del Rey (Principal Via Padre Eustaquio),3
+S55   01,S55,Santa Monica / Minas Shopping (Principal),3
+S60   01,S60,Circular Venda Nova (Principal),3
+S60   02,S60,Circular Venda Nova (Atendimento Ao Bairro Leticia),3
+S61   01,S61,Landi / Estacao Vilarinho (Principal),3
+S61   02,S61,Landi / Estacao Vilarinho (Landi/Estacao Vilarinho (Encerra Na Est.Vilarinho)),3
+S63   01,S63,Circular Venda Nova (Principal),3
+S64   01,S64,Circular Venda Nova (Principal),3
+S65   01,S65,Sao Bernardo / Minas Caixa (Principal),3
+S65   02,S65,Sao Bernardo / Minas Caixa (Via Salamanca),3
+S66   01,S66,Tupi / Europa (Principal),3
+S70   01,S70,Conj. Felicidade / Shopping Del Rey (Principal),3
+S80   01,S80,Jardim Vitoria / Viaduto Cidade Industrial (Principal),3
+S81   01,S81,Circular Nordeste (Principal),3
+S82   01,S82,Circular Nordeste (Principal),3
+S85   01,S85,Minas Shopping / Santa Ines (Principal),3
+SC01A 01,SC01A,Contorno A (Principal),3
+SC01B 01,SC01B,Contorno B (Principal),3
+SC01R 01,SC01R,Contorno/Praca Milton Campos (Itinerario - Tarde),3
+SC01R 02,SC01R,Contorno/Praca Milton Campos (Itinerario - Manha),3
+SC02A 01,SC02A,Praca 7/Savassi Via Pca Da Liberdade - Santa Casa (Principal),3
+SC02B 01,SC02B,Savassi/Praca 7 Via Santa Casa - Pca Da Liberdade (Principal),3
+SC02B 02,SC02B,Savassi/Praca 7 Via Santa Casa - Pca Da Liberdade (Desvio Feira Da Av.Afonso Pena),3
+SC03A 01,SC03A,Hospital Felicio Rocho/Hospital Militar A (Principal),3
+SC03B 01,SC03B,Hospital Felicio Rocho/Hospital Militar B (Principal),3
+SC04A 01,SC04A,Santa Casa/Savassi/Rodoviaria A (Principal),3
+SC04B 01,SC04B,Santa Casa/Rodoviaria/Savassi B (Principal),3
+SE02  01,SE02,Buritis/Savassi (Principal),3
