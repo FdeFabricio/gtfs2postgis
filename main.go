@@ -37,7 +37,7 @@ func main() {
 		panic(err)
 	}
 
-	err = repo.PopulateTable("stops", fmt.Sprintf("%s/gtfs_bhtransit/stops.txt", dir))
+	err = repo.PopulateTableGeom("stops", fmt.Sprintf("%s/gtfs_bhtransit/stops.txt", dir))
 	if err != nil {
 		panic(err)
 	}

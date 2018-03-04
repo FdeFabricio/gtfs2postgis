@@ -1,4 +1,4 @@
--- name: create-stops-table
+-- name: create-table-stops
 CREATE TABLE stops (
 	stop_id VARCHAR(255) NOT NULL PRIMARY KEY,
 	stop_code VARCHAR(255),
@@ -13,10 +13,14 @@ CREATE TABLE stops (
 	stop_timezone VARCHAR(255),
 	wheelchair_boarding SMALLINT CHECK (wheelchair_boarding BETWEEN 0 AND 2)
 );
-CREATE INDEX stop_lat ON stops (stop_lat);
-CREATE INDEX stop_lon ON stops (stop_lon);
 
--- name: create-stop_times-table
+-- name: update-geom-stops
+SELECT AddGeometryColumn('stops', 'geom', 4326, 'POINT', 2);
+UPDATE stops SET geom = ST_SetSRID(ST_MakePoint(stop_lon, stop_lat),4326);
+CREATE INDEX stops_geom ON stops USING GIST (geom);
+
+
+-- name: create-table-stop_times
 CREATE TABLE stop_times (
 	trip_id VARCHAR(255) NOT NULL,
 	arrival_time VARCHAR(8) NOT NULL,
@@ -34,7 +38,7 @@ COMMENT ON COLUMN stop_times.drop_off_type IS '0 regularly scheduled drop off, 1
 COMMENT ON COLUMN stop_times.timepoint IS '0 times are considered approximate, 1 times are considered exact';
 
 
--- name: create-trips-table
+-- name: create-table-trips
 CREATE TABLE trips (
   route_id VARCHAR(255) NOT NULL,
   service_id VARCHAR(255) NOT NULL,

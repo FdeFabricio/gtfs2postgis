@@ -34,7 +34,7 @@ func (r *Repository) Connect(c config.DatabaseConfiguration) error {
 	return err
 }
 
-func (r *Repository) PopulateTable(tableName, filePath string) error {
+func (r *Repository) populateTable(tableName, filePath string, geom bool) error {
 	rows, err := reader.CSV(filePath)
 	if err != nil {
 		return err
@@ -63,9 +63,25 @@ func (r *Repository) PopulateTable(tableName, filePath string) error {
 		return err
 	}
 
+	if geom {
+		err = r.updateGeom(tx, tableName)
+		if err != nil {
+			tx.Rollback()
+			return err
+		}
+	}
+
 	err = tx.Commit()
 
 	return err
+}
+
+func (r *Repository) PopulateTable(tableName, filePath string) error {
+	return r.populateTable(tableName, filePath, false)
+}
+
+func (r *Repository) PopulateTableGeom(tableName, filePath string) error {
+	return r.populateTable(tableName, filePath, true)
 }
 
 func (r *Repository) runQuery(tx *sql.Tx, query string, args ...interface{}) error {
@@ -107,7 +123,7 @@ func (r *Repository) runCopyIn(tx *sql.Tx, tableName string, header []string, ro
 }
 
 func (r *Repository) createTable(tx *sql.Tx, tableName string) error {
-	return r.runQuery(tx, queries[goyesql.Tag(fmt.Sprintf("create-%s-table", tableName))])
+	return r.runQuery(tx, queries[goyesql.Tag("create-table-"+tableName)])
 }
 
 func (r *Repository) dropTable(tx *sql.Tx, tableName string) error {
@@ -123,6 +139,10 @@ func (r *Repository) loadTable(tx *sql.Tx, tableName string, rows [][]string) er
 	header[0] = strings.TrimPrefix(header[0], "\uFEFF")
 
 	return r.runCopyIn(tx, tableName, header, rows[1:])
+}
+
+func (r *Repository) updateGeom(tx *sql.Tx, tableName string) error {
+	return r.runQuery(tx, queries[goyesql.Tag("update-geom-"+tableName)])
 }
 
 func convertColumnType(column, arg string) (interface{}, error) {
